@@ -1,0 +1,15 @@
+/Users/praveenatluri/Documents/github/sample-sdk-dotnet/bin/Debug/net5.0/sample-sdk-dotnet.deps.json
+/Users/praveenatluri/Documents/github/sample-sdk-dotnet/bin/Debug/net5.0/sample-sdk-dotnet.runtimeconfig.json
+/Users/praveenatluri/Documents/github/sample-sdk-dotnet/bin/Debug/net5.0/sample-sdk-dotnet.runtimeconfig.dev.json
+/Users/praveenatluri/Documents/github/sample-sdk-dotnet/bin/Debug/net5.0/sample-sdk-dotnet.dll
+/Users/praveenatluri/Documents/github/sample-sdk-dotnet/bin/Debug/net5.0/ref/sample-sdk-dotnet.dll
+/Users/praveenatluri/Documents/github/sample-sdk-dotnet/bin/Debug/net5.0/sample-sdk-dotnet.pdb
+/Users/praveenatluri/Documents/github/sample-sdk-dotnet/obj/Debug/net5.0/sample-sdk-dotnet.csprojAssemblyReference.cache
+/Users/praveenatluri/Documents/github/sample-sdk-dotnet/obj/Debug/net5.0/sample-sdk-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/praveenatluri/Documents/github/sample-sdk-dotnet/obj/Debug/net5.0/sample-sdk-dotnet.AssemblyInfoInputs.cache
+/Users/praveenatluri/Documents/github/sample-sdk-dotnet/obj/Debug/net5.0/sample-sdk-dotnet.AssemblyInfo.cs
+/Users/praveenatluri/Documents/github/sample-sdk-dotnet/obj/Debug/net5.0/sample-sdk-dotnet.csproj.CoreCompileInputs.cache
+/Users/praveenatluri/Documents/github/sample-sdk-dotnet/obj/Debug/net5.0/sample-sdk-dotnet.dll
+/Users/praveenatluri/Documents/github/sample-sdk-dotnet/obj/Debug/net5.0/ref/sample-sdk-dotnet.dll
+/Users/praveenatluri/Documents/github/sample-sdk-dotnet/obj/Debug/net5.0/sample-sdk-dotnet.pdb
+/Users/praveenatluri/Documents/github/sample-sdk-dotnet/obj/Debug/net5.0/sample-sdk-dotnet.genruntimeconfig.cache
