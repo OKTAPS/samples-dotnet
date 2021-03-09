@@ -2,14 +2,14 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net5.0</TargetFramework>
+    <TargetFramework>net4.7.2</TargetFramework>
     <RootNamespace>sample_sdk_dotnet</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
     <PackageReference Include="Okta.Auth.Sdk" Version="2.0.3" />
-    <PackageReference Include="Okta.sdk" Version="4.0.0" />
+    <PackageReference Include="Okta.Sdk" Version="4.0.0" />
   </ItemGroup>
 
 </Project>
